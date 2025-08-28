@@ -84,6 +84,7 @@ const SignUp = () => {
         placeholder="Sana Farheen"
         type="text"
         />
+          <br>
         <Input
             value={email}
             onChange={({ target }) => setEmail(target.value)}
@@ -118,5 +119,6 @@ const SignUp = () => {
     </AuthLayout>
   )
 }
+
 
 export default SignUp
