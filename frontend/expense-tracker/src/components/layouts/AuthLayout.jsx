@@ -5,7 +5,7 @@ import { LuTrendingUpDown } from "react-icons/lu";
 const AuthLayout = ({children}) => {
   return <div className="flex">
     <div className="w-screen h-screen md:w-[60vw] px-12 pt-8 pb-12">
-        <h3 className="text-lg font-medium text-black">Expense Tracker</h3>
+        <h1 className="text-lg font-medium text-black">Expense Tracker</h1>
         {children}
       </div>
 
@@ -43,4 +43,5 @@ const StatsInfoCard = ({icon, label, value, color}) =>{
             <span className="text-[20px]">${value}</span>
         </div>
     </div>
+
 }
