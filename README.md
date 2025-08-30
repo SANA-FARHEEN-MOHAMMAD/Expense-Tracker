@@ -36,7 +36,9 @@ An aesthetically pleasing, fully responsive web application to track your **inco
 <img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/ee6106aa-c652-447b-a2a7-cdea8793161a" />
 
 ### 👤 Profile  
-- Edit name, profile picture, and change password (with re-verification).  
+- Edit name, profile picture, and change password (with re-verification).
+- 
+![mb](https://github.com/user-attachments/assets/67640c66-ea69-46ae-a877-d826db4fd8ce)
 
 ### 🔒 Logout  
 - Secure logout with redirection to login page.  
